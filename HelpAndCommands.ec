@@ -9,3 +9,15 @@ print=(
    Hello!
 )
 run
+
+//read
+read=(
+     you going the learn this
+)
+run
+
+//random, generate the random number
+random=(
+  min, max
+)
+solve
